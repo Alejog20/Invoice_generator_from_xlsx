@@ -36,24 +36,6 @@ Este proyecto proporciona herramientas para procesar, analizar y gestionar archi
    !/Input/ejemplo_facturacion.csv  # Mantiene el archivo de ejemplo
    ```
 
-## Estructura del Proyecto
-
-```
-procesador-facturas-csv/
-├── Input/                # Carpeta para archivos CSV de entrada (ignorada por Git)
-│   └── ejemplo_facturacion.csv  # Archivo de ejemplo incluido en el repo
-├── Output/               # Resultados procesados
-├── src/                  # Código fuente
-│   ├── __init__.py
-│   ├── processor.py      # Lógica de procesamiento principal
-│   ├── analyzer.py       # Funciones de análisis de datos
-│   └── visualizer.py     # Generación de visualizaciones
-├── tests/                # Pruebas unitarias
-├── .gitignore            # Configuración para excluir datos sensibles
-├── requirements.txt      # Dependencias del proyecto
-└── README.md             # Este archivo
-```
-
 ## Uso
 
 1. Coloque sus archivos CSV de facturación en la carpeta `Input/`
