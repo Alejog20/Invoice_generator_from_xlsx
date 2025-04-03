@@ -1,7 +1,6 @@
-# Procesador de Facturas CSV
+# Procesador de Facturas CSV/XLSX
 
-Este proyecto proporciona herramientas para procesar, analizar y gestionar archivos CSV de facturas empresariales de manera segura, evitando la exposición de datos sensibles al repositorio Git.
-
+Este proyecto proporciona herramientas para procesar, analizar y gestionar archivos .csv y .xlsx-
 ## Características
 
 - Procesamiento de archivos CSV de facturación
