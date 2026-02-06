@@ -1,3 +1,29 @@
+
+# Invoice Generator from XLSX
+
+## Description
+A highly efficient Python-based automation tool designed to streamline the billing process. This script reads project and financial data from a Microsoft Excel (.xlsx) file and generates professional, formatted PDF invoices automatically.
+
+## Key Features
+* **Automated PDF Generation:** Converts Excel rows into standardized PDF invoices.
+* **Data Integrity:** Ensures accurate calculation of totals and taxes based on input data.
+* **Customizable Templates:** Easily adapt the output to match specific company branding.
+* **Efficiency:** Designed based on professional experience reducing billing manual tasks by over 90%.
+
+## Technologies Used
+* **Python**
+* **Pandas** (Data Transformation)
+* **ReportLab/FPDF** (PDF Generation)
+* **Openpyxl** (Excel Integration)
+
+## Setup
+1. Clone the repository.
+2. Install dependencies: `pip install -r requirements.txt`.
+3. Place your data in the `input_data.xlsx` file.
+4. Run the script: `python main.py`.
+
+
+
 # Procesador de Facturas CSV/XLSX
 
 Este proyecto proporciona herramientas para procesar, analizar y gestionar archivos .csv y .xlsx-
